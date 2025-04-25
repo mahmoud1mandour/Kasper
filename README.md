@@ -17,8 +17,7 @@ Kasper is a stylish and responsive landing page built using only **HTML** and **
 
 ## 💻 Live Demo
 
-[Click here to view the live demo](https://your-live-demo-link.com)  
-_(Replace this with your actual deployed URL)_
+[Click here to view the live demo]()
 
 ## 📷 Screenshots
 
